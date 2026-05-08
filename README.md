@@ -35,9 +35,6 @@ Se ha ejecutado la herramienta EclEmma sobre los tests del Ejercicio 1 para veri
 - **Resultado:** Se ha alcanzado un **100% de cobertura** en la clase principal.
 - **Entregable:** En la carpeta de este ejercicio se adjunta el informe en formato HTML exportado desde Eclipse.
 
-*Captura de la cobertura alcanzada:*
-[AQUÍ PUEDES ARRASTRAR TU CAPTURA DE PANTALLA DE ECLIPSE CON EL 100% VERDE]
-
 ### 3️⃣ Ejercicio 3: Analizador de Código (SonarLint)
 Se ha llevado a cabo un análisis estático del código empleando el plugin **SonarLint** para detectar posibles "code smells" o vulnerabilidades tempranas.
 - **Entregable:** Se incluye un documento en formato PDF que contiene las capturas de pantalla de la ejecución de SonarLint en Eclipse, así como una investigación teórica detallando la relación, diferencias y casos de uso entre **SonarLint** y **SonarQube**.
@@ -60,8 +57,8 @@ Se ha documentado el código final refactorizado de la clase `Rectangle` siguien
 
 ---
 
-## ✅ Checklist de Requisitos Cumplidos
-- [x] Repositorio nombrado correctamente (`PRACTICAS-9-10-EED-2026`).
+## ✅ Requisitos Cumplidos
+- [x] Nombre del repositorio correcto (`PRACTICAS-9-10-EED-2026`).
 - [x] Implementación de pruebas unitarias.
 - [x] Cobertura del 100%.
 - [x] Informe comparativo SonarLint/SonarQube en PDF.
